@@ -1,2 +1,1 @@
-||deviantart.com
-||google.com
+*.google.*
