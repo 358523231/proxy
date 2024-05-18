@@ -1,2 +1,3 @@
-*.google.* +v2ray
-把以弹出菜单创建的规则添加到列表末尾。
+*.google.*
+||deviantart.com
+||google.com
